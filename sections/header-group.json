@@ -33,6 +33,15 @@
         "twcss_text": ""
       }
     },
+    "2c9e13b0-0721-4c56-ade9-31464ba634a2": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"social-icons\">\n  <a href=\"lien_vers_facebook\" target=\"_blank\" class=\"social-icon\">\n    <img src=\"lien_vers_icone_facebook\" alt=\"Facebook\">\n  <\/a>\n  \n  <a href=\"lien_vers_twitter\" target=\"_blank\" class=\"social-icon\">\n    <img src=\"lien_vers_icone_twitter\" alt=\"Twitter\">\n  <\/a>\n  \n  <a href=\"lien_vers_instagram\" target=\"_blank\" class=\"social-icon\">\n    <img src=\"lien_vers_icone_instagram\" alt=\"Instagram\">\n  <\/a>\n  \n  <!-- Ajoutez d'autres liens et icônes similaires pour d'autres réseaux sociaux -->\n<\/div>",
+        "color_scheme": "accent-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "header": {
       "type": "header",
       "settings": {
@@ -41,7 +50,7 @@
         "menu_type_desktop": "dropdown",
         "sticky_header_type": "on-scroll-up",
         "show_line_separator": true,
-        "color_scheme": "background-2",
+        "color_scheme": "background-1",
         "enable_country_selector": true,
         "enable_language_selector": true,
         "mobile_logo_position": "center",
@@ -60,6 +69,7 @@
   },
   "order": [
     "announcement-bar",
+    "2c9e13b0-0721-4c56-ade9-31464ba634a2",
     "header"
   ]
 }
