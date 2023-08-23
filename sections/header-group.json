@@ -8,7 +8,7 @@
         "e6f742a2-0574-4349-832b-e8d90d72469d": {
           "type": "announcement",
           "settings": {
-            "text": "BURY YOURSELF IN SAVINGS",
+            "text": "COMMANDEZ EN GROS ET ÉCONOMISEZ. ACHETEZ MAINTENANT, PAYEZ PLUS TARD AVEC APRÈS PAIEMENT. BON SHOPPING.",
             "link": ""
           }
         },
@@ -31,15 +31,6 @@
         "change_slides_speed": 5,
         "twcss_container": "twcss-bg-red-600",
         "twcss_text": ""
-      }
-    },
-    "2c9e13b0-0721-4c56-ade9-31464ba634a2": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div class=\"social-icons\">\n  <a href=\"lien_vers_facebook\" target=\"_blank\" class=\"social-icon\">\n    <img src=\"lien_vers_icone_facebook\" alt=\"Facebook\">\n  <\/a>\n  \n  <a href=\"lien_vers_twitter\" target=\"_blank\" class=\"social-icon\">\n    <img src=\"lien_vers_icone_twitter\" alt=\"Twitter\">\n  <\/a>\n  \n  <a href=\"lien_vers_instagram\" target=\"_blank\" class=\"social-icon\">\n    <img src=\"lien_vers_icone_instagram\" alt=\"Instagram\">\n  <\/a>\n  \n  <!-- Ajoutez d'autres liens et icônes similaires pour d'autres réseaux sociaux -->\n<\/div>",
-        "color_scheme": "accent-1",
-        "padding_top": 40,
-        "padding_bottom": 52
       }
     },
     "header": {
@@ -69,7 +60,6 @@
   },
   "order": [
     "announcement-bar",
-    "2c9e13b0-0721-4c56-ade9-31464ba634a2",
     "header"
   ]
 }
