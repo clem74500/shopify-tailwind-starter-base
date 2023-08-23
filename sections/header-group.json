@@ -11,25 +11,17 @@
             "text": "COMMANDEZ DES LOTS ET ÉCONOMISEZ. ACHETEZ MAINTENANT, PAYEZ PLUS TARD AVEC KLARNA. BON SHOPPING.",
             "link": ""
           }
-        },
-        "announcement-bar-0": {
-          "type": "announcement",
-          "settings": {
-            "text": "DEATH WISH COFFEE CO",
-            "link": ""
-          }
         }
       },
       "block_order": [
-        "e6f742a2-0574-4349-832b-e8d90d72469d",
-        "announcement-bar-0"
+        "e6f742a2-0574-4349-832b-e8d90d72469d"
       ],
       "settings": {
         "color_scheme": "accent-2",
         "show_line_separator": false,
         "auto_rotate": true,
         "change_slides_speed": 5,
-        "twcss_container": "twcss-bg-red-600",
+        "twcss_container": "",
         "twcss_text": ""
       }
     },
